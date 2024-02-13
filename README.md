@@ -4,6 +4,6 @@
 
 สำหรับรายวิชา OOP
 
-![download banner](./banner.jpg)
+![download banner](banner.jpg)
 
 บรรณวัชร ศรีภักดี

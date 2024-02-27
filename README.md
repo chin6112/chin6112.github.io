@@ -18,4 +18,15 @@ d = { 'Anna': 3.99,'Betty':3.78 }
 for k,v in d.items():
   print(k. v)
 ```
+```
+- application title
+- author: 
+  * id: ---
+  * name: first last
+- technology: [pygame/streamlit]
+- application description:
+
+* presentation: [slide/canva/etc..] link [public/ubu]
+* video: link [public/ubu]
+```
 บรรณวัชร ศรีภักดี
